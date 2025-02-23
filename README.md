@@ -14,7 +14,7 @@
    - [week_num2 Measure in credit_detail Table](#week_num2-measure-in-credit_detail-table)
    - [Revenue Measure in credit_detail Table](#revenue-measure-in-credit_detail-table)
    - [Current_week_Revenue Measure in credit_detail Table](#current_week_revenue-measure-in-credit_detail-table)
-   - [Previous_week_Revenue Measure in credit_detail Table](#previous-measure-in-credit_detail-table)
+   - [Previous_week_Revenue Measure in credit_detail Table](#previous-week-revenue-measure-in-credit_detail-table)
 7. [Project Insights](#project-insights)
 8. [Technologies Used](#technologies-used)
 9. [Author](#author)
@@ -102,12 +102,12 @@ Previous_week_Revenue = CALCULATE(
 ```
 
 ## Project Insights
-### WoW Change:
+### Week to week Change:
 - **Revenue Growth**: Revenue increased by **28.8%**.
 - **Transaction Growth**: Total transaction amount and count increased.
 - **Customer Base**: Customer count increased.
 
-### Overview YTD:
+### Overview Year to date:
 - **Overall Revenue**: **57M**.
 - **Total Interest**: **8M**.
 - **Total Transaction Amount**: **46M**.
