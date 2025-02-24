@@ -2,22 +2,21 @@
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Problem Statement](#problem-statement)
-3. [Features](#features)
-4. [Screenshots](#screenshots)
+2. [Features](#features)
+3. [Screenshots](#screenshots)
    - [Weekly Credit Card Transaction Report](#weekly-credit-card-transaction-report)
    - [Weekly Credit Card Customer Report](#weekly-credit-card-customer-report)
-5. [Dataset Download](#dataset-download)
-6. [DAX Queries Used](#dax-queries-used)
+4. [Dataset Download](#dataset-download)
+5. [DAX Queries Used](#dax-queries-used)
    - [AgeGroup Column in cust_detail Table](#agegroup-column-in-cust_detail-table)
    - [IncomeGroup Column in cust_detail Table](#incomegroup-column-in-cust_detail-table)
    - [week_num2 Measure in credit_detail Table](#week_num2-measure-in-credit_detail-table)
    - [Revenue Measure in credit_detail Table](#revenue-measure-in-credit_detail-table)
    - [Current_week_Revenue Measure in credit_detail Table](#current_week_revenue-measure-in-credit_detail-table)
    - [Previous_week_Revenue Measure in credit_detail Table](#previous-week-revenue-measure-in-credit_detail-table)
-7. [Project Insights](#project-insights)
-8. [Technologies Used](#technologies-used)
-9. [Author](#author)
+6. [Project Insights](#project-insights)
+7. [Technologies Used](#technologies-used)
+8. [Author](#author)
 
 ## Overview
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyza credit card operations effectively.
